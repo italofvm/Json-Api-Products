@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta Bic Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Air Pro",
+      "price": "15000.89"
+    },
+    {
+      "name": "Samsung A11",
+      "price": "2500.99",
+      "id": 3
+    },
+    {
+      "name": "Lapis Faber Castell",
+      "price": "5.89",
+      "id": 4
+    }
+  ]
+}
